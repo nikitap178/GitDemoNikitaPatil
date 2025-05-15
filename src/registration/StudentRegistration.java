@@ -6,6 +6,7 @@ public class StudentRegistration {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("HelloWorld");
+		System.out.println("Hello India");
 	}
 
 }
