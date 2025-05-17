@@ -7,6 +7,7 @@ public class StudentRegistration {
 		System.out.println("Hello");
 		System.out.println("HelloWorld");
 		System.out.println("Hello India");
-	}
+		System.out.println("Hello Pune");
+		}
 
 }
